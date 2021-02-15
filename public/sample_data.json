@@ -1,0 +1,185 @@
+{
+  "folders": [
+    {
+      "id": 1,
+      "title": "Archived",
+      "description": "Find out more about the success of our previous projects!",
+      "started": "2019-08-06"
+    },
+    {
+      "id": 2,
+      "title": "Renew Waldorf Square",
+      "description": "The iconic Waldorf Square is up for a complete renewal. And we want to learn what you think should be done.",
+      "started": "2019-10-27"
+    },
+    {
+      "id": 3,
+      "title": "Heritage",
+      "description": "There is a strong “islander” identity and a deep commitment to the stewardship of our remarkable natural environment. We take pride and pleasure in living in a resilient community that celebrates its arts, culture and heritage. We highly value and want to preserve our small community way of living, removed from the traffic and distractions of urban life. In recent years, we have turned our attention to how, as islanders, we can live in a more inclusive and sustainable way.",
+      "started": "2020-01-19"
+    },
+    {
+      "id": 4,
+      "title": "Old offline projects",
+      "description": "Before we had this platform, we did quite some offline-only participation projects. We grouped them here.",
+      "started": "2010-04-16",
+      "folder": 1
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Poll on the new walkway",
+      "topics": [2],
+      "description": "The municipality is currently investigating the added value of a pedestrian street from the parking lot, crossing the toad pond, to finally reach Gonzo street. A first draft has already been made for this and it is also known how high the costs are for the construction of such a bridge.",
+      "started": "2019-12-01",
+      "folder": 2,
+      "cost": "625"
+    },
+    {
+      "id": 2,
+      "title": "Reviewing our guidance on how we regulate services for people with a learning disability and/or autism",
+      "topics": [7],
+      "description": "We're seeking views on our guidance 'Registering the right support' to understand how it could be improved. Let us know what you think!",
+      "started": "2019-10-11",
+      "cost": "145"
+    },
+    {
+      "id": 3,
+      "title": "Survey for a play pool",
+      "topics": [2, 5],
+      "description": "Let your opinion be heard about a play pool in Waldorf Square! As an outcome of the project: \"Launch your ideas for an even more livable Kermitfort\", the idea was introduced by residents to place play pools.",
+      "started": "2019-11-23",
+      "folder": 2,
+      "cost": "1594"
+    },
+    {
+      "id": 4,
+      "title": "Zero deaths in traffic",
+      "topics": [6, 2, 7],
+      "description": "A group of residents from Kermitfort have long been of the opinion that various streets are unsafe for active road users (cyclists, pedestrians). After a fatal traffic accident in July 2017 in the 'zone 30', they decided to take charge of starting a civilian collective.",
+      "started": "2019-09-16",
+      "folder": 1,
+      "cost": "1987"
+    },
+    {
+      "id": 5,
+      "title": "Alternative for the old traffic lights",
+      "topics": [6, 2],
+      "description": "The traffic light at Waldorf Square is outdated and must be replaced in the short term. What is the best solution in your opinion?",
+      "started": "2020-01-10",
+      "folder": 2,
+      "cost": "201"
+    },
+    {
+      "id": 6,
+      "title": "Heritage Inventory and Stories Collection",
+      "topics": [4],
+      "description": "Share your favourite places and stories that are (or should be) part of the heritage of Kermitfort.",
+      "started": "2020-01-24",
+      "folder": 3,
+      "cost": "794"
+    },
+    {
+      "id": 7,
+      "title": "Participatory budgeting: Green spaces",
+      "topics": [1, 8, 2],
+      "description": "Find all the ideas concerning \"Green spaces\" that have been selected and for which you can now help us determine how our cost should be spent.",
+      "started": "2019-10-04",
+      "cost": "665"
+    },
+    {
+      "id": 8,
+      "title": "Activity benches",
+      "topics": [7, 2],
+      "description": "In order to make Kermitforters exercise more, the city wants to install IPitup moving benches everywhere across Kermitfort. You determine where they should be installed.",
+      "started": "2019-09-25",
+      "cost": "1231"
+    },
+    {
+      "id": 9,
+      "title": "Heritage Tools",
+      "topics": [4],
+      "description": "We'd like to hear your ideas of how we can better encourage heritage conservation on Kermitfort.",
+      "started": "2020-02-04",
+      "folder": 3,
+      "cost": "356"
+    },
+    {
+      "id": 10,
+      "title": "Launch your ideas for an even more livable Kermitfort",
+      "topics": [],
+      "description": "Do you have an idea to improve or change Kermitfort that does not fit into one of the existing projects? Start your own initiative, collect 100 votes in 90 days and Kermitfort will come back to you.",
+      "started": "2019-09-10",
+      "cost": "628"
+    },
+    {
+      "id": 11,
+      "title": "Empty Homes Tax",
+      "topics": [3],
+      "description": "To address Kermitfort's housing crisis, we have implemented an annual tax on empty or under-utilized residential properties called the Empty Homes Tax.  Net revenues from the Empty Homes Tax will be reinvested into affordable housing initiatives. ",
+      "started": "2020-02-28",
+      "cost": "519"
+    },
+    {
+      "id": 12,
+      "title": "Consultation on \"Wifi for everyone\"",
+      "topics": [2],
+      "description": "Take part in choosing free wifi zones in the city!",
+      "started": "2020-02-12",
+      "cost": "1401"
+    },
+    {
+      "id": 13,
+      "title": "Expanding the North park zone",
+      "topics": [1],
+      "description": "The old industrial site has so much untapped potential. How do you see its future?",
+      "started": "2010-02-06",
+      "folder": 4,
+      "cost": "1242"
+    },
+    {
+      "id": 14,
+      "title": "Empty house tax",
+      "topics": [3],
+      "description": "House prices are going up, but at the same time a lot of houses are still empty. The council has decided to introduce a tax.\nHow shall we formulate it? What are your thoughts?",
+      "started": "2009-03-17",
+      "folder": 4,
+      "cost": "1405"
+    }
+  ],
+  "topics": [
+    {
+      "id": 1,
+      "title": "Green"
+    },
+    {
+      "id": 2,
+      "title": "Infrastructure"
+    },
+    {
+      "id": 3,
+      "title": "Housing"
+    },
+    {
+      "id": 4,
+      "title": "Culture"
+    },
+    {
+      "id": 5,
+      "title": "Youth"
+    },
+    {
+      "id": 6,
+      "title": "Mobility"
+    },
+    {
+      "id": 7,
+      "title": "Health"
+    },
+    {
+      "id": 8,
+      "title": "Environment"
+    }
+  ]
+}
